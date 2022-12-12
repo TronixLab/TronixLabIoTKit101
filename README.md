@@ -11,4 +11,4 @@ Tested on IoT platform:
 * Synchronize virtual and physical buttons and LEDs.
 * Real-time remote monitoring and control.
 
-[![Watch the video](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=XBcTvAkC6GM "TronixLab ESP32 IoT Lab Kit 101 v1.0")
+[![Watch the video](https://github.com/TronixLab/TronixLabIoTKit101/blob/main/pcb%20v1.0/pcb3d.png)](https://www.youtube.com/watch?v=XBcTvAkC6GM "TronixLab ESP32 IoT Lab Kit 101 v1.0")
