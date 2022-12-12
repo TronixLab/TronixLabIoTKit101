@@ -1,4 +1,4 @@
-# TronixLabIoTKit101
+# TronixLab IoT Lab Kit 101
 TronixLab ESP32 IoT Lab Kit 101 v1.0 ESP32 IoT Lab Kit on board. The trainer board consists of: 
 * Digital Input (switch buttons) 
 * Digital Output (LEDs) 
@@ -10,3 +10,5 @@ Tested on IoT platform:
 * Synchronize app and web dashboard.
 * Synchronize virtual and physical buttons and LEDs.
 * Real-time remote monitoring and control.
+
+[![TronixLab ESP32 IoT Lab Kit 101 v1.0](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=XBcTvAkC6GM "TronixLab ESP32 IoT Lab Kit 101 v1.0")
